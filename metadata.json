@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard AI - Smart Women Security Application",
+  "description": "AI-enabled women security application with smart SOS, live GPS tracking, AI threat detection, safe route recommendations, fake call generator, AI chatbot, and wearable IoT integration.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
